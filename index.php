@@ -1,3 +1,3 @@
 <?php
-echo "Hello, bienvenue chez Horline";
+echo "Hello, bienvenue la famille de Horline";
 ?>
